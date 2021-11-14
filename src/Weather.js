@@ -66,7 +66,7 @@ export default function Weather() {
           rel="noreferrer"
         >
           Open-source code
-        </a>
+        </a>{" "}
         by Minu Antony
       </small>
     </div>

@@ -54,7 +54,7 @@ export default function Weather() {
       </div>
       <small>
         <a
-          href="https://github.com/minuantony/Vanilla-weather-app"
+          href="https://github.com/minuantony/weather-app.git"
           target="_blank"
           rel="noreferrer"
         >

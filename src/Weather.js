@@ -16,7 +16,7 @@ export default function Weather() {
       <div className="weather-app border border-secondary">
         <form className="search-form ms-2 mt-2">
           <div className="row">
-            <div className="col-9">
+            <div className="col-6">
               <input
                 className="form-control"
                 type="text"
@@ -25,6 +25,13 @@ export default function Weather() {
             </div>
             <div className="col-2">
               <input className="btn btn-primary" type="submit" value="Search" />
+            </div>
+            <div className="col-2">
+              <input
+                className="btn btn-success"
+                type="submit"
+                value="Current"
+              />
             </div>
           </div>
         </form>

@@ -1,0 +1,36 @@
+.Weather .PHW {
+  color: #70757a;
+  font-size: 14px;
+  line-height: 17px;
+  padding-top: 6px;
+  margin-left: -15px;
+  margin-top: 20px;
+  list-style-type: none;
+}
+.Weather .dayanddescription {
+  margin-top: 10px;
+  margin-left: -15px;
+  line-height: normal;
+  text-align: left;
+  list-style-type: none;
+}
+.Weather .place {
+  color: #70757a;
+  font-size: 24px;
+}
+.description::first-letter {
+  text-transform: uppercase;
+}
+.Weather .units {
+  margin-top: 15px;
+  text-decoration: none;
+}
+.active {
+  color: black;
+  cursor: default;
+  text-decoration: none;
+}
+.active:hover {
+  color: #70a3d4;
+  text-decoration: none;
+}
